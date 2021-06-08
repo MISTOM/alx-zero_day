@@ -1,2 +1,2 @@
 ## ALX
-### BY Holberton School of Software Endineering
+### BY Holberton School of Software Engineering
